@@ -6,7 +6,7 @@ Meanwhile BStudent calls up AStudent. BStudent
 tells AStudent they has an improvement for this part of the text, 
 BStudent will do this on a different branch so that there 
 will be no interference with AStudent’s work.
-*PLACE HOLDER: BSTUDENT HAS A CRUCIAL IMPROVEMENT*
+A trivial change
 
 AStudent suddenly realizes that there is a 
 very nice text, that copes very nicely with 
