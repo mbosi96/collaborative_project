@@ -13,7 +13,7 @@ very nice text, that copes very nicely with
 what BStudent is about to write. This is why 
 AStudent is creating a new branch and writing 
 the very nice text here. 
-*PLACE HOLDER: ASTUDENT'S VERY NICE TEXT*
+*PLACE HOLDER: volta buona?*
 
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
